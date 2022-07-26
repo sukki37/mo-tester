@@ -1,5 +1,5 @@
 name: Documentation issue
-description: Raise a problem or suggest new content for MatrixOne documentation
+description: Raise a problem or suggest new content for MO-Tester documentation
 title: "[Docs]: "
 # labels: [kind/docs, needs-triage]
 labels: [kind/docs]
